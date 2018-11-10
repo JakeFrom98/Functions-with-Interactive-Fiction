@@ -207,7 +207,7 @@ rerun:
 	}
 
 	if (win == 1) // if win variable = 1 congratulate the user on winning the game
-	{
+	{ 
 		system("cls");
 		cout << "Congratulations " << player_name <<" you won the game!";
 		cout << "\nPress enter to quit the game.\n";
